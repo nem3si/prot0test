@@ -32,13 +32,3 @@
 <li><code>requests</code></li>
 <li><code>py_mini_racer</code></li>
 </ul>
-
-<h2>Contributing</h2>
-
-<p>Contributions are welcome! If you find any issues or want to enhance the tool, feel free to submit a pull request.</p>
-
-<h2>License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-</body>
-</html>
